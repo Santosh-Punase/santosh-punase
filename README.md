@@ -38,6 +38,12 @@ With 7 years of experience in the React ecosystem, I specialize in creating aest
 
 ---
 
+### 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Santosh-Punase&layout=compact&theme=radical)
+
+---
+
 ### 📫 How to reach me
 
 - **Email**: [santoshpunase@gmail.com](mailto:santoshpunase@gmail.com)
