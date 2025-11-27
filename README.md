@@ -2,7 +2,7 @@
 
 ### 🚀 Senior Frontend Developer | React Enthusiast
 
-With 7 years of experience in the React ecosystem, I specialize in creating aesthetically pleasing and user-friendly interfaces. I'm passionate about Test-Driven Development (TDD) and believe in the power of reusability, simplicity, and maintainability.
+With 8 years of experience in the React ecosystem, I specialize in creating aesthetically pleasing and user-friendly interfaces. I'm passionate about Test-Driven Development (TDD) and believe in the power of reusability, simplicity, and maintainability.
 
 ---
 
